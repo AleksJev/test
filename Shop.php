@@ -8,5 +8,6 @@
 
 class Shop {
     public $title = "Title";
+    public $price = 0.00;
 
 } 
